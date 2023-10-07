@@ -23,6 +23,7 @@ The application incorporates a unittest-based testing suite ensuring that:
 
 English-to-French and French-to-English translations work correctly.
 Spaces are accurately handled.
+
 Web Application with Flask:
 
 Flask is employed to serve the web application and handle HTTP requests.
