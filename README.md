@@ -26,10 +26,15 @@ Spaces are accurately handled.
 Web Application with Flask:
 
 Flask is employed to serve the web application and handle HTTP requests.
+
 Three routes are defined:
+
 /: Renders the main translation interface.
+
 /englishToFrench: Handles the translation request from English to French.
+
 /frenchToEnglish: Manages the translation request from French to English.
+
 Frontend Implementation:
 
 The interface is designed with Bootstrap for a modern and responsive look.
