@@ -1,4 +1,4 @@
-# English-French-Translator
+# English-French Translator :gb: :fr:
 
 Translate between English and French seamlessly with our web-based application, leveraging the power of IBM Watson's Language Translator API. The system is built using Python (Flask) for the backend, combined with a frontend crafted in HTML, CSS (Bootstrap), and JavaScript.
 
