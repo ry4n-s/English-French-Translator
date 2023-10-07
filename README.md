@@ -13,11 +13,14 @@ API key and service URL are securely fetched from environment variables, ensurin
 Translation Functions:
 
 Two core functions are implemented:
+
 englishToFrench: Translates English text to French.
 frenchToEnglish: Translates French text to English.
+
 Testing Suite:
 
 The application incorporates a unittest-based testing suite ensuring that:
+
 English-to-French and French-to-English translations work correctly.
 Spaces are accurately handled.
 Web Application with Flask:
@@ -32,6 +35,7 @@ Frontend Implementation:
 The interface is designed with Bootstrap for a modern and responsive look.
 Users can input text to be translated through a form and choose between translating to French or English.
 The translated result is dynamically displayed below the form.
+
 AJAX Calls for Seamless User Experience:
 
 The frontend uses JavaScript to initiate asynchronous AJAX requests to the backend translation routes, ensuring a seamless and interactive translation experience.
